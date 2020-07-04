@@ -1,0 +1,11 @@
+{
+  "name": "cryptics-bot",
+  "version": "1.0.0",
+  "description'": "Cryptic's Assistant ask if you need help",
+  "main": "bot.js",
+  "author": "Legend",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
